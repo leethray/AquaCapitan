@@ -1,0 +1,52 @@
+ArtFileTool - An Encoder/Decoder for 10.5's ArtFile.bin
+
+Made by asap18 & pumpkin
+
+ArtFile.bin is located at /System/Library/PrivateFrameworks/CoreUI.framework/Resources/ArtFile.bin
+
+
+DONT CHANGE ANY FILE NAMES OR FORMATS(LEAVE AS PNG)
+
+Instructions:
+
+BACKUP OLD ArtFile.bin
+
+1. Safari will download it into artFileTool folder
+2. open a terminal and change directories to where it was downloaded. Most people will use:  cd Downloads/artFileTool/
+3. copy original artfile: cp /System/Library/PrivateFrameworks/CoreUI.framework/Resources/ArtFile.bin ./ArtFile.original.bin
+4. Decode it with: java -jar artFileTool.jar -decode ArtFile.original.bin artFiles
+
+5. Mod the files, etc.
+
+6. Encode it with: java -jar artFileTool.jar -encode artFiles ArtFile.original.bin ArtFile.bin
+
+the new artfile is now ArtFile.bin
+
+Now navigate to /System/Library/PrivateFrameworks/CoreUI.framework/Resources/ in Finder.
+
+Drag and replace ArtFile.bin
+
+Logout to see changes.
+
+
+
+Syntax:
+
+decode/unpack an ArtFile.bin
+
+java -jar ArtFileTool.jar -decode ArtFile folderToOutput
+
+
+or to make a new ArtFile.bin from the files you unpacked/modded
+
+java -jar ArtFileTool.jar -encode artFiles oldArtFile outputArtFile
+
+where artFiles is the directory of the pictures , oldArtFile is the original ArtFile.bin and outputArtFile is the filename to create the new ArtFile at.
+
+rename the outputArtFile after its done to ArtFile.bin and drag to /System/Library/PrivateFrameworks/CoreUI.framework/Resources/ to replace current one.
+
+
+
+
+
+

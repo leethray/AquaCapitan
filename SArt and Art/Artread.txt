@@ -1,0 +1,26 @@
+open Terminal
+
+>cd path/To/artFileTool/Directory
+
+>./artFileTool -d artFile
+
+>Make ur changes
+
+>./artFileTool -e artFile ArtFile.bin
+
+
+*works on Lion and ML only
+
+
+>>
+for the Artfile200
+
+copy the artfile200 to the artfiletool dir and 
+
+>cd path/To/artFileTool/Directory
+
+>./artFileTool -d artfile200.bin artFile200
+
+>Delete the Artfile200.bin ,Make ur changes
+
+>./artFileTool -e artFile200 ArtFile200.bin

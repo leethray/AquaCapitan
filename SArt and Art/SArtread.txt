@@ -1,0 +1,13 @@
+open Terminal
+
+>cd path/To/sartFileTool/Directory
+
+>./sartFileTool -d sartFiles
+
+>Make ur changes
+
+>./sartFileTool -e sartFiles SArtFile.bin
+
+
+
+109-1是 menu bar
