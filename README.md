@@ -6,7 +6,11 @@ It is an uncomplete project. There are still some places left undone.
 ## How to install
 The main files are those .car file in `Resource-alpha` or `Resource-stable`. Search "Theme engine" for how to install them.
 
-Many other icon/png/tiff need to be replaced mannually:
+
+
+Icon resources could be found in `elements`
+
+Many other icon/png/tiff need to be replaced mannually (if only you have time for that):
 
 `/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources`
 
