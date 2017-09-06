@@ -3,7 +3,7 @@ It is an uncomplete project. There are still some places left undone. Here are s
 
 * How to change the system font to LucidaGrande without any truncated text. (Unperfectly realization by  https://github.com/LumingYin/macOSLucidaGrande )
 * How to change the sidebar color to blue tint.
-* How to theme menu bar (give it a gradiant OR toggle the system default transparency without affect other "Reduce transparency" effect )
+* How to theme menu bar (give it a gradiant OR toggle the system default transparency for menu bar only, without affect other "Reduce transparency" effect )
 
 
 
