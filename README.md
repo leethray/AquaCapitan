@@ -3,21 +3,19 @@ It is a Mac OS X theming project still under development. But good enough to be 
 
 * How to change the system font to LucidaGrande without any truncated text. (Unperfectly realization by  https://github.com/LumingYin/macOSLucidaGrande )
 * How to change the sidebar color to blue tint.
-* How to theme menu bar (give it a gradiant OR toggle the system default transparency for menu bar only, without affect other "Reduce transparency" effect )
-* How to change Tag dots
+* How to theme menu bar (give it a gradiant OR toggle the system default translucent for menu bar only, without affect other "Reduce transparency" effect )
+* How to change Tag dots in Finder sidebar and context menu.
 
 
 
 ## How to install
 0. download the whole repository.
-1. The main files are those .car file in `Resource-alpha` or `Resource-stable`. Search "Theme engine" for how to install them.
+1. The main files are those .car file in `Resource-alpha` or `Resource-stable`. They should replace the system file in `/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources`. Search "Theme engine" for detailed information.
 2. Check "Reduce transparency" in System Preference to see change in context menu.
 
 
 3. Icon resources could be found in `elements`
    Many other icon/png/tiff need to be replaced mannually (if only you have time for that):
-
-   `/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources`
 
    `/System/Library/CoreServices/CoreTypes.bundle`
 
