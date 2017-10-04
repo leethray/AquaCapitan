@@ -1,5 +1,5 @@
 ## Notice
-It is an project still being developed. But good enough to be released for pratical use. There are  some places left undone. Here are several key issues:
+It is a Mac OS X theming project still under development. But good enough to be released for pratical use. There are  some places left undone. Here are several key issues:
 
 * How to change the system font to LucidaGrande without any truncated text. (Unperfectly realization by  https://github.com/LumingYin/macOSLucidaGrande )
 * How to change the sidebar color to blue tint.
