@@ -2,7 +2,7 @@
 It is a Mac OS X theming project still under development. But good enough to be released for pratical use. There are  some places left undone. Here are several key issues:
 
 * How to change the system font to LucidaGrande without any truncated text. (Unperfectly realization by  https://github.com/LumingYin/macOSLucidaGrande )
-* How to change the sidebar color to blue tint.
+* How to change the sidebar color to blue tint ---> Sloved. Using a SIMUL plugin called FB eye™ Controller. **GLORIA !!**
 * How to theme menu bar (give it a gradiant OR toggle the system default translucent for menu bar only, without affect other "Reduce transparency" effect )
 * How to change Tag dots in Finder sidebar and context menu.
 
