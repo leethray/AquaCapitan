@@ -14,7 +14,7 @@ It is a Mac OS X theming project still under development. But good enough to be 
 2. Check "Reduce transparency" in System Preference to see change in context menu.
 
 
-3. Icon resources could be found in `elements`
+3. Icon resources could be found in `https://github.com/leethray/UI-element`
    Many other icon/png/tiff need to be replaced mannually (if only you have time for that):
 
    `/System/Library/CoreServices/CoreTypes.bundle`
@@ -32,7 +32,7 @@ It is a Mac OS X theming project still under development. But good enough to be 
 
 ## Preview
 
-![Preview](/Users/siruili/Desktop/Collection/Cutup/DeviantArt/Aqua Capitan/Preview.png)
+![Preview](Preview.png)
 
 
 
